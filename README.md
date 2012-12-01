@@ -26,7 +26,7 @@
 曲げ加工等を施して製作しました。    
 切削加工に用いるDXFデータをそれぞれのロボットに関してアップロードしましたのでご使用ください。  
 　  
-　  　PRS-FF09PⅡ用：[3axis_prs-ff09pii_frame.dxf]()  
+　　　PRS-FF09PⅡ用：[3axis_prs-ff09pii_frame.dxf]()  
 　　　PRS-S40M用：[3axis_prs-s40m_frame.dxf]()  
 　  
 [Robotma.com](http://www.robotma.com/)では「オリジナルロボット製作支援サービス」としてDXFデータを渡せばアルミ板の切削加工を  
