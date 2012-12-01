@@ -7,7 +7,7 @@
 　  
 　私たちはサーボの種類によって2機のロボットを製作し、実験に用いました。  
 １機はPWM方式のサーボモータを用いたマシンです。  
-[![画像1][image1]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
+　　[![画像1][image1]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
 [image1]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png
 
 　　　サーボモータ：PRS-FF09PⅡ（Pirkus製）  
@@ -15,7 +15,7 @@
 　　　使用マイコン：mbed NXP LPC1768  
 
 もう１機はコマンド方式のサーボモータを用いたマシンです。  
-[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
+　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png
 　  
 　　　サーボモータ：PRS-S40M（Pirkus製）  
