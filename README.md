@@ -7,7 +7,7 @@
 胴体を左右に振りながら重心を移動し、足を交互に前に出すことで歩行することができます。  
 　  
 　私たちはサーボの種類によって2機のロボットを製作し、実験に用いました。
-### 1.PWM方式のサーボモータを用いたロボット ###  
+### 1．PWM方式のサーボモータを用いたロボット ###
 　　[![画像1][image1]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
 [image1]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png
 
@@ -15,7 +15,7 @@
 　　　電源：LiPo 7.4V (Hyperion製)  
 　　　使用マイコン：mbed NXP LPC1768  
 　  
-### 2.コマンド方式のサーボモータを用いたロボット ###
+### 2．コマンド方式のサーボモータを用いたロボット ###
 　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png
 
