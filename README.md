@@ -16,7 +16,7 @@
 
 もう１機はコマンド方式のサーボモータを用いたマシンです。  
 [![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
-[image2]:　http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png
+[image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png
 　  
 　　　サーボモータ：PRS-S40M（Pirkus製）  
 　　　電源：LiPo 7.4V  (Hyperion製)  
@@ -34,6 +34,6 @@
 加工設備が無い場合でも製作できますので、ぜひお試しください。  
 　このロボットは私たちの研究で使用した２種類のサーボモータ以外のものを用いても製作可能です。  
 入手しやすいものを使用して、各軸間等を揃えたフレームを用いればロボットを動かすことは可能です。  
-また、フレームの製作はタミヤ社製ユニバーサルプレート（[http://www.tamiya.com/japan/products/70172plate/index.htm]）等を  
+また、フレームの製作はタミヤ社製ユニバーサルプレート（[http://www.tamiya.com/japan/products/70172plate/index.htm](http://www.tamiya.com/japan/products/70172plate/index.htm)）等を  
 使用すれば簡単に製作できます。　　
 
