@@ -7,8 +7,8 @@
 　  
 　私たちはサーボの種類によって2機のロボットを製作し、実験に用いました。  
 １機はPWM方式のサーボモータを用いたマシンです。  
-　　[![画像1][image1]](http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor＿GUI_Guide2.png)
-　　　[image1]:http://cloud.github.com/downloads/s-ryuki/Pictures/MotionEditor＿GUI_Guide2.png
+　　[![画像1][image1]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
+　　　[image1]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png
 
 　　　サーボモータ：PRS-FF09PⅡ（Pirkus製）  
 　　　電源：LiPo 7.4V (Hyperion製)  
