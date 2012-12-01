@@ -8,23 +8,24 @@
 　  
 　私たちはサーボの種類によって2機のロボットを製作し、実験に用いました。
 ### 1．PWM方式のサーボモータを用いたロボット ###
-　　[![画像1][image1]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
+　　　[![画像1][image1]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
 [image1]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png
 
-　　　サーボモータ：PRS-FF09PⅡ（Pirkus製）  
-　　　電源：LiPo 7.4V (Hyperion製)  
-　　　使用マイコン：mbed NXP LPC1768  
+　　　　サーボモータ：PRS-FF09PⅡ（Pirkus製）  
+　　　　電源：LiPo 7.4V (Hyperion製)  
+　　　　使用マイコン：mbed NXP LPC1768  
 　  
 ### 2．コマンド方式のサーボモータを用いたロボット ###
-　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
+　　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png
 
-　　　サーボモータ：PRS-S40M（Pirkus製）  
-　　　電源：LiPo 7.4V  (Hyperion製)  
+　　　　サーボモータ：PRS-S40M（Pirkus製）  
+　　　　電源：LiPo 7.4V  (Hyperion製)  
 
-PRS-S40Mのハードウェアマニュアルはこちらをご覧ください。
+　　　　　PRS-S40Mのハードウェアマニュアルはこちらをご覧ください。
 　  
-　　　[PRS-S07M/PRS-S40M ハードウェアマニュアル]()
+　　　　　　[PRS-S07M/PRS-S40M ハードウェアマニュアル]()
+　  
 　  
 　これらのロボットは市販されているサーボモータを使用し、  
 フレームはホビーロボットを自主制作する際に通常行うようなアルミ板の切削加工、曲げ加工等を施して製作しました。    
